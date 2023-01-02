@@ -3,6 +3,8 @@
 ## Description
 Named Entity Highlighter is a chrome extension that can read the page you are on and highlight the named entities on that page. It uses FastApi, Python, and a Uvicorn server on the backend. The front end of this extension uses JavaScript.
 
+![Screen Shot 2023-01-02 at 12 50 45 PM](https://user-images.githubusercontent.com/67932419/210265210-a0fdecfd-caa4-494d-a3f4-1b40abedca03.png)
+
 ## Getting started
 
 1. Clone the repository onto your local machine.
